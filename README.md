@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>🌱 I’m currently learning Spring Boot<br>
+🔭 I’m currently working on Full Stack Web Development<br>🌱 I’m currently learning Docker and DSA<br>
+🌐 [Portfolio](https://geethika-kancharla.vercel.app/)
 
 
 ## 🌐 Socials:
