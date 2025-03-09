@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development<br>🌱 I’m currently learning Docker and DSA<br>
+# 💫 About Me: ![Profile Views](https://komarev.com/ghpvc/?username=Geethika-Kancharla&color=yellow)
+🔭 I’m currently working on Full Stack Web Development<br>🌱 I’m currently learning DevOps and DSA<br>
 🌐 [Portfolio](https://geethika-kancharla.vercel.app/)
 
 
@@ -20,9 +20,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Geethika-Kancharla&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=Geethika-Kancharla&color=yellow)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in )
 [![](https://visitcount.itsvg.in/api?id=Geethika-Kancharla&icon=0&color=0)](https://visitcount.itsvg.in)-->
